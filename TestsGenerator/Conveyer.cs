@@ -21,7 +21,7 @@ namespace TestsGenerator
                     using (var reader = new StreamReader(path)) //очищаем память
                     {
                         Thread.Sleep(1000);
-                        Console.WriteLine("1");
+                        Console.WriteLine("Read");
                         return await reader.ReadToEndAsync();
                     }
                 },
@@ -33,7 +33,7 @@ namespace TestsGenerator
                 async sourceCode =>
                 {
                     var fileInfo = await Task.Run(() => new CodeParser().GetFileElement(sourceCode)); //пропарсил файл
-                    Console.WriteLine("2");
+                    Console.WriteLine("Write");
                     return await Task.Run(() => new Generator().GenerateTests(fileInfo));//готовые тесты
                 },
                 new ExecutionDataflowBlockOptions { MaxDegreeOfParallelism = 4}
@@ -45,7 +45,7 @@ namespace TestsGenerator
                  {
                      using (var writer = new StreamWriter(dstPath + '\\' + fileNameCodePair.Key + ".cs"))
                      {
-                         Console.WriteLine("3");
+                         Console.WriteLine("Save");
                          await writer.WriteAsync(fileNameCodePair.Value);
                      }
                  },
