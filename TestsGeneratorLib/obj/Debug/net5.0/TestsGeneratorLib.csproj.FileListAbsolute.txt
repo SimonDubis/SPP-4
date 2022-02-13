@@ -1,0 +1,12 @@
+C:\Users\Asus\Visual Studio\TestsGenerator\TestsGeneratorLib\bin\Debug\net5.0\TestsGeneratorLib.deps.json
+C:\Users\Asus\Visual Studio\TestsGenerator\TestsGeneratorLib\bin\Debug\net5.0\TestsGeneratorLib.dll
+C:\Users\Asus\Visual Studio\TestsGenerator\TestsGeneratorLib\bin\Debug\net5.0\ref\TestsGeneratorLib.dll
+C:\Users\Asus\Visual Studio\TestsGenerator\TestsGeneratorLib\bin\Debug\net5.0\TestsGeneratorLib.pdb
+C:\Users\Asus\Visual Studio\TestsGenerator\TestsGeneratorLib\obj\Debug\net5.0\TestsGeneratorLib.csproj.AssemblyReference.cache
+C:\Users\Asus\Visual Studio\TestsGenerator\TestsGeneratorLib\obj\Debug\net5.0\TestsGeneratorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Visual Studio\TestsGenerator\TestsGeneratorLib\obj\Debug\net5.0\TestsGeneratorLib.AssemblyInfoInputs.cache
+C:\Users\Asus\Visual Studio\TestsGenerator\TestsGeneratorLib\obj\Debug\net5.0\TestsGeneratorLib.AssemblyInfo.cs
+C:\Users\Asus\Visual Studio\TestsGenerator\TestsGeneratorLib\obj\Debug\net5.0\TestsGeneratorLib.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Visual Studio\TestsGenerator\TestsGeneratorLib\obj\Debug\net5.0\TestsGeneratorLib.dll
+C:\Users\Asus\Visual Studio\TestsGenerator\TestsGeneratorLib\obj\Debug\net5.0\ref\TestsGeneratorLib.dll
+C:\Users\Asus\Visual Studio\TestsGenerator\TestsGeneratorLib\obj\Debug\net5.0\TestsGeneratorLib.pdb
